@@ -1,4 +1,1 @@
-fun main(args: Array<String>){
-printfln("Hola mundo")
-}
-
+console.log('Hola Mundo');
